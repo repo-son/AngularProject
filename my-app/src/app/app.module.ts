@@ -16,7 +16,7 @@ import { GaugeModule } from 'angular-gauge';
     AppRoutingModule,
     BrowserAnimationsModule,
     FormsModule,
-    GaugeModule,
+    GaugeModule
 
 
   ],

@@ -21,6 +21,7 @@ export class AppComponent
     
     this.todoArray.push(value)
     console.log(this.todoArray)  
+    
   }
 
 
